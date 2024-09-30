@@ -1,2 +1,2 @@
 # scs_host_cpc
-desc
+Host abstractions for data producers running on the South Coast Science Common Processor Card (CPC).
